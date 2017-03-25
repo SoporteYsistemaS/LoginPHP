@@ -1,0 +1,11 @@
+Formularios login con email y password y recordar usuario
+ventana de registro
+usar boostrap sin jquery
+Mensajes de error en div superiores o inferiores.
+Todo lo SQL a manopla nada de interfaces graficas.
+Mysql por comandos. (levantar servicio, crear bases de datos, insertar datos de 2 usuarios)
+validaciones html5 y js
+validaciones de ruta con sesion
+session
+link para registro
+
